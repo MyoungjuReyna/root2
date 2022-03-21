@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>My stylesheet 2</title>
+</head>
+
+<body>
+html {
+    font-size: 10px;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    text-transform: capitalize;
+  }
+  
+  h1 + p {
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    color: #7678f0;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+</body>
+</html>
